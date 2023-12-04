@@ -1,5 +1,5 @@
 # MalKLP
-## Running Format
+## Compile & Run
 
 The source code of our paper are in the folder "src".
 
