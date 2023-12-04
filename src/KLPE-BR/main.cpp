@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 
 	cout << algo << "  " << graphname << "  K=" << K << "  L=" << L << "  Theta=" << threshold << endl;
 
-	graphfile="../../dataset/" + graphname + ".txt";
+	graphfile="../../sample_dataset/" + graphname + ".txt";
 
 	Graph g;
 
