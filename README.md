@@ -3,7 +3,7 @@
 
 The source code of our paper are in the folder "src".
 
-The source code of each algorithm has four parameters, corresponding to the dataset name (e.g., **D1**) and the three positive integers $k$, $l$ and $\theta$.
+The source code of each algorithm has four parameters, corresponding to the dataset name (e.g., **D1**) and the three positive integers $k$, $l$ and $\theta$  (e.g., **(2,4,8)**).
 
 * Compile
 
