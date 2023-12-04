@@ -17,7 +17,7 @@ The source code of each algorithm has four parameters, corresponding to the data
 
 ## Datasets
 
-We provide five datasets in the folder "sample_dataset" for testing, D1 to D5.
+We provide two sample datasets in the folder "sample_dataset" for testing, D1 and D2.
 
-Considering the space limitations of GitHub, the remaining datasets can be found at: 
+The remaining datasets can be found at: 
 https://1drv.ms/u/s!Aut6uXLH_Qy_cTqhygGKLvAwCpU
